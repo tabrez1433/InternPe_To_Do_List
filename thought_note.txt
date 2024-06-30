@@ -1,0 +1,30 @@
+*** Project's Summary ***
+
+Name: Md Yunus Tabrez
+Assignment: To-Do list
+
+I. Overview:-
+
+A simple to-do list application built with HTML, CSS, and JavaScript. This application allows users to add, check/uncheck, and delete tasks. The tasks are saved in the browser's local storage, so they persist even after the page is refreshed.
+
+II. Features:-
+
+1. Add new tasks
+2. Mark tasks as completed or uncompleted
+3. Delete tasks
+4. Persist tasks in local storage
+
+III. Usage:- 
+
+1. Add Task: Type a task into the input box and click the "Add" button or press Enter.
+2. Check/Uncheck Task: Click on a task to mark it as completed or uncompleted.
+3. Delete Task: Click on the '×' icon next to a task to delete it.
+
+IV. Code Overview:-
+
+1. HTML:
+The HTML file sets up the structure of the to-do list application. It includes the necessary meta tags, links to the CSS file, and the main structure of the app.
+2. CSS:
+The CSS file styles the to-do list application. It includes styling for the container, to-do list, input box, buttons, and list items.
+3. JavaScript:
+The JavaScript file handles the functionality of the to-do list. It includes functions to add, check/uncheck, delete tasks, and save/load tasks from local storage.
